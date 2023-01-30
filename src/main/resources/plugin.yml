@@ -1,0 +1,4 @@
+name: Pluginkotlin
+version: '${project.version}'
+main: com.pluginkotlin.Main
+api-version: 1.18
